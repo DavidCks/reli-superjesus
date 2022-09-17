@@ -3,3 +3,5 @@ A small "game" I made for my religious education class as a sort of proof of con
 https://632640f5e2cf5723ca4cb7a2--gleaming-jalebi-752f0f.netlify.app/ 
 
 controls are w a s d
+
+Built from scratch using pixiJS
